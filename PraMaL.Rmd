@@ -1,5 +1,5 @@
 ---
-"Are you exercising correctly? Qualitative assessment of weight lifting exercises"
+Are you exercising correctly? Qualitative assessment of weight lifting exercises.
 ---
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now
