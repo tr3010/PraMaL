@@ -196,6 +196,3 @@ an action, given the set of activity measurements.
 ```r
 model <- randomForest(classe ~ ., data=train_data)
 ```
-
-
-# References
