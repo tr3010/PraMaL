@@ -1,10 +1,5 @@
 ---
-title: "Are you exercising correctly? Qualitative assessment of weight lifting exercises"
-output:
-  html_document:
-    smart: no
-  pdf_document: default
-bibliography: bibliography.bib
+"Are you exercising correctly? Qualitative assessment of weight lifting exercises"
 ---
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now
