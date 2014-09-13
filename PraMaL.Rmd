@@ -130,6 +130,3 @@ an action, given the set of activity measurements.
 ```{r cache=TRUE}
 model <- randomForest(classe ~ ., data=train_data)
 ```
-
-
-# References
